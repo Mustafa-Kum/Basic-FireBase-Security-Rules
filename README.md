@@ -1,0 +1,1 @@
+# Basic-FireBase-Security-Rules
